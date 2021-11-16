@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edercnj
 - 👀 I’m interested in software architecture, clean code, cloud development and and open source projects.
-- 🌱 I’m currently learning docker, kubernates, cloud development and Clean Architecture.
+- 🌱 I’m currently learning docker, kubernates, cloud development, Clean Architecture and Java Projects.
 - 💞️ I’m looking to collaborate in projects that facilitate cloud development.
 - 📫 How to reach me: 
     - email: edercnj@gmail.com
