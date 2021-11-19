@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edercnj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edercnj&layout=compact&langs_count=7&theme=dark"/>
-  <img height="216em" src="https://github-readme-stats.vercel.app/api/wakatime?username=edercnj&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edercnj&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edercnj&layout=compact&langs_count=7"/>
+  <img height="216em" src="https://github-readme-stats.vercel.app/api/wakatime?username=edercnj"/>
 </div>
