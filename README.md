@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ##### 👋 Hi, I’m Eder
 ##### 👀 I’m interested in software architecture, clean code, cloud development and and open source projects.
 ##### 🌱 I’m currently learning docker, kubernates, cloud development, clean architecture and java projects.
-##### 💞️ I’m looking to collaborate in projects that facilitate cloud development.
+##### 💞️ I’m looking to collaborate in projects that facilitate cloud development with micro services.
 <div align="center"> 
   <a href = "mailto:edercnj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
