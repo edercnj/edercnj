@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ##### 👋 Hi, I’m Eder
-##### 👀 I’m interested in software architecture, clean code, cloud development and and open source projects.
+##### 👀 I’m interested in software architecture, clean code, cloud development, micro services and and open source projects.
 ##### 🌱 I’m currently learning docker, kubernates, cloud development, clean architecture and java projects.
 ##### 💞️ I’m looking to collaborate in projects that facilitate cloud development with micro services.
 <div align="center"> 
