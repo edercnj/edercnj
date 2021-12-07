@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="eder-mongo" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="eder-docker" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="eder-redis" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="eder-nginx" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+  <img align="center" alt="eder-nginx" height="48" width="48" src="https://img.icons8.com/color/48/000000/nginx.png">
   <img align="center" alt="eder-linux" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="eder-Csharp" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="eder-Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
