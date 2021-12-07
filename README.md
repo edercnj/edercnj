@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="eder-linux" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="eder-Csharp" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="eder-Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="eder-Js" height="48" width="48" src="https://img.icons8.com/color/48/000000/typescript.png">
   <img align="center" alt="eder-Js" height="48" width="48" src="https://img.icons8.com/color/48/000000/kubernetes.png">
 </div>
 
