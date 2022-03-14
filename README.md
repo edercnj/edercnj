@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="eder-java" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="eder-golang" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="eder-oracle" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="eder-spring" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="eder-mongo" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
