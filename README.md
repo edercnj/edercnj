@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="eder-java" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="eder-golang" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="eder-Csharp" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="eder-Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="eder-oracle" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
@@ -23,11 +22,16 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="eder-redis" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="eder-nginx" height="48" width="48" src="https://img.icons8.com/color/48/000000/nginx.png">
   <img align="center" alt="eder-linux" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="eder-Js" height="48" width="48" src="https://img.icons8.com/color/48/000000/kubernetes.png">
-  <img align="center" alt="eder-Js" height="48" width="48" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
+  <img align="center" alt="k8s" height="48" width="48" src="https://img.icons8.com/color/48/000000/kubernetes.png">
+  <img align="center" alt="amazon-web" height="48" width="48" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 </div>
 
 <div align="center"><br>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edercnj&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edercnj&layout=compact&langs_count=7"/>
+</div>
+
+<div align="center"><br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
