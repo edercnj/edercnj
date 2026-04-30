@@ -75,17 +75,14 @@ Based in São Paulo, Brazil 🇧🇷 · Open to async collaboration on event-dri
 
 ---
 
-### 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edercnj&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edercnj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=edercnj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edercnj/edercnj/output/github-snake-dark.svg"/>
@@ -94,14 +91,9 @@ Based in São Paulo, Brazil 🇧🇷 · Open to async collaboration on event-dri
   </picture>
 </p>
 
----
-
-### ⏱️ Coding Activity
-
+⏱️ Coding Activity
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
 
 <p align="center">
   <i>"Architecture is the decisions you wish you could get right early in a project."<br/>— Ralph Johnson</i>
