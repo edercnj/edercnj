@@ -93,6 +93,13 @@ Based in São Paulo, Brazil 🇧🇷 · Open to async collaboration on event-dri
 
 ⏱️ Coding Activity
 <!--START_SECTION:waka-->
+
+```txt
+From: 22 April 2026 - To: 29 April 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
