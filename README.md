@@ -17,14 +17,13 @@
 
 ### 👨‍💻 About
 
-Senior architect focused on **event-driven payment platforms**, **CQRS / Event Sourcing**, and **PCI-DSS-compliant** infrastructure. I work where domain complexity, regulatory pressure, and high-throughput systems collide — designing services that need to be observable, evolvable, and resilient by default.
+Senior architect focused on **event-driven payment platforms** and **PCI-DSS-compliant** infrastructure. I work where domain complexity, regulatory pressure, and high-throughput systems collide — designing services that need to be observable, evolvable, and resilient by default.
 
-Based in São Paulo, Brazil 🇧🇷 · Open to async collaboration on event-driven, hexagonal-architecture-based systems.
+Based in Porto Alegre, Brazil 🇧🇷 · Open to async collaboration on AI, hexagonal-architecture-based systems.
 
 ### 🚀 Currently
 
-- 🏗️  Architecting an **event-sourced payments platform** (CQRS + DDD + hexagonal architecture)
-- 🛠️  Maintaining [`ia-dev-environment`](https://github.com/edercnj/ia-dev-environment) — a Java/Picocli CLI that scaffolds AI-assisted development environments with curated stack profiles, skills, and SDD artifacts
+- 🏗️  Architecting an **event-sourced payments platform** (DDD + hexagonal architecture)
 - 📐 Exploring **Spec-Driven Development** workflows for AI coding agents
 - ✍️  Writing about distributed systems, fintech modernization, and ADR-driven documentation
 
