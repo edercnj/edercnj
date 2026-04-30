@@ -1,13 +1,8 @@
-<!--
-  edercnj/edercnj — Profile README
-  Substitua os placeholders <SEU-SLUG-LINKEDIN> antes de commitar.
--->
-
 <h1 align="center">Eder Junior</h1>
 <h3 align="center">Senior Software Architect · Fintech & Distributed Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-SLUG-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/Seder-nunes-júnior-629a562b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:edercnj@gmail.com">
@@ -88,7 +83,7 @@ Based in São Paulo, Brazil 🇧🇷 · Open to async collaboration on event-dri
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edercnj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=edercnj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
