@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Architect · Fintech & Distributed Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Seder-nunes-júnior-629a562b/" target="_blank">
+  <a href="https://www.linkedin.com/in/eder-nunes-júnior-629a562b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:edercnj@gmail.com">
@@ -87,7 +87,11 @@ Based in São Paulo, Brazil 🇧🇷 · Open to async collaboration on event-dri
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edercnj&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edercnj/edercnj/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edercnj/edercnj/output/github-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/edercnj/edercnj/output/github-snake.svg"/>
+  </picture>
 </p>
 
 ---
