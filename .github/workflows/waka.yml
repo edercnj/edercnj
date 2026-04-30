@@ -1,0 +1,17 @@
+# .github/workflows/waka.yml
+name: Waka Readme
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # diário 00:00 UTC
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days  # ou all_time, last_30_days, last_6_months, last_year
+          SHOW_TITLE: true
+          LANG_COUNT: 10
+          IGNORED_LANGUAGES: "YAML JSON TOML Markdown"
