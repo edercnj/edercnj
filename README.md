@@ -94,15 +94,15 @@ Based in Porto Alegre, Brazil 🇧🇷 · Open to async collaboration on AI, hex
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2026 - To: 10 May 2026
+From: 04 May 2026 - To: 11 May 2026
 
-Other             22 hrs 44 mins        █████████████▓░░░░░░░░░░░   54.70 %
-Java              5 hrs 58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-Bash              46 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Git Config        6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-XML               6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Text              2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Python            1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other             20 hrs 29 mins        ██████████████░░░░░░░░░░░   55.85 %
+Java              4 hrs 30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Bash              44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Git Config        6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+XML               6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Text              1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PowerShell        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
