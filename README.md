@@ -96,11 +96,11 @@ Based in Porto Alegre, Brazil 🇧🇷 · Open to async collaboration on AI, hex
 ```txt
 From: 10 May 2026 - To: 17 May 2026
 
-Other        3 hrs 29 mins         ████████████▒░░░░░░░░░░░░   48.86 %
-Bash         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Java         6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other        3 hrs 27 mins         ███████████░░░░░░░░░░░░░░   43.77 %
+Java         38 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Bash         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+XML          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
