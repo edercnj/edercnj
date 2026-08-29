@@ -94,12 +94,16 @@ Based in Porto Alegre, Brazil 🇧🇷 · Open to async collaboration on AI, hex
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-Other        50 mins               ██████████░░░░░░░░░░░░░░░   39.51 %
-Bash         22 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-TypeScript   13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java         4 hrs 39 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+Other        3 hrs 38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
+TypeScript   1 hr 13 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Text         46 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Bash         22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Python       4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Checksums    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
