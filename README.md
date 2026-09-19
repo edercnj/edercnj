@@ -76,10 +76,6 @@ Based in Porto Alegre, Brazil 🇧🇷 · Open to async collaboration on AI, hex
 
 📊 GitHub Stats
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=edercnj&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=edercnj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=edercnj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
@@ -88,6 +84,10 @@ Based in Porto Alegre, Brazil 🇧🇷 · Open to async collaboration on AI, hex
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edercnj/edercnj/output/github-snake.svg"/>
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/edercnj/edercnj/output/github-snake.svg"/>
   </picture>
+</p>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=edercnj&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=edercnj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ⏱️ Coding Activity
