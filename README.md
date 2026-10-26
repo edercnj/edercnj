@@ -94,15 +94,15 @@ Based in Porto Alegre, Brazil 🇧🇷 · Open to async collaboration on AI, hex
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2026 - To: 24 October 2026
+From: 18 October 2026 - To: 25 October 2026
 
-Other             43 hrs 5 mins         █████████▒░░░░░░░░░░░░░░░   37.51 %
-Java              26 hrs 43 mins        █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
-Python            11 hrs 10 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Text              6 hrs 26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-HTML              2 hrs 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Bash              44 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-XML               35 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other             35 hrs 33 mins        ███████▓░░░░░░░░░░░░░░░░░   30.87 %
+Java              30 hrs 31 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+Python            12 hrs 55 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Text              6 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+HTML              3 hrs 56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Bash              44 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+TypeScript        30 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
